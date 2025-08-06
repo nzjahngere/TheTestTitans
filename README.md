@@ -1,7 +1,7 @@
 # The Test Titans
 
 ## Introduction
-Build a manual test-framework o evaluate the functionality, usability, and overall performance of Myntra’s replica website to ensure an optimal user experience and identify areas for improvement. I started by creating a test plan and worked until bug reporting. I ideally documented everything in all the documentation. The testing project has identified defects, ensured the website works well in both functional and non-functional aspects and provided insights for improvement.
+Built a manual test-framework o evaluate the functionality, usability, and overall performance of Myntra’s replica website to ensure an optimal user experience and identify areas for improvement. I started by creating a test plan and worked until bug reporting. I ideally documented everything in all the documentation. The testing project has identified defects, ensured the website works well in both functional and non-functional aspects and provided insights for improvement.
 
 ## Project Type
 Manual Testing
